@@ -1,0 +1,5 @@
+file = open('Oak.txt', 'a', encoding='utf-8')
+file.write('\nTitle: "To the Oak Tree"')
+file.write('\nAuthor: Something')
+file.write('\nTime: March 1977')
+file.close()
